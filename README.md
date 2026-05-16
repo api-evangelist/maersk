@@ -1,6 +1,6 @@
 # Maersk (maersk)
 
-A Danish integrated logistics and container shipping company and the second-largest container shipping line in the world. Operates a fleet of hundreds of vessels connecting ports across 130 countries with end-to-end supply chain solutions.
+A. P. Moller-Maersk is a Danish integrated logistics and container shipping company and one of the world's largest container shipping lines. Maersk operates ocean transport (Maersk Line), port and terminal operations (APM Terminals), supply-chain management, air cargo (Maersk Air Cargo), inland services, and customs solutions, connecting ports across more than 130 countries with end-to-end supply chain offerings. Maersk operates a public developer portal at developer.maersk.com that hosts APIs for shipping customers and partners covering tracking, schedules, rates, bookings, and related logistics workflows.
 
 **URL:** [https://www.maersk.com/](https://www.maersk.com/)
 
@@ -8,10 +8,21 @@ A Danish integrated logistics and container shipping company and the second-larg
 
 ## Tags:
 
- - Maritime, Shipping, Logistics
+ - Container Shipping, Freight, Logistics, Maritime, Ports and Terminals, Shipping, Supply Chain
+
+## Links
+
+- Website: https://www.maersk.com/
+- About: https://www.maersk.com/about
+- Logistics Explained: https://www.maersk.com/logistics-explained
+- APM Terminals: https://www.apmterminals.com/
+- Investor Relations: https://investor.maersk.com/
+- News: https://www.maersk.com/news
+- Sustainability: https://www.maersk.com/sustainability
+- Careers: https://www.maersk.com/careers
+- Developer Portal: https://developer.maersk.com/
 
 ## Timestamps
 
 - **Created:** 2026-05-05
-- **Modified:** 2026-05-05
-
+- **Modified:** 2026-05-16
