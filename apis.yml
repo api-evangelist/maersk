@@ -23,9 +23,67 @@ tags:
 url: >-
   https://raw.githubusercontent.com/api-evangelist/maersk/refs/heads/main/apis.yml
 created: '2026-05-05'
-modified: '2026-05-16'
-specificationVersion: '0.19'
-apis: []
+modified: '2026-05-23'
+specificationVersion: '0.20'
+apis:
+  - aid: maersk:tracking-and-trace
+    name: Track and Trace API
+    description: >-
+      RESTful API that returns neutralized container and shipment milestones
+      across Maersk's ocean network, enabling supply-chain visibility for
+      shippers, BCOs, and downstream visibility platforms.
+    humanURL: https://developer.maersk.com/api-catalogue/Tracking
+    tags:
+      - Track and Trace
+      - Container Visibility
+      - Shipment Milestones
+  - aid: maersk:point-to-point-schedules
+    name: Point-to-Point Schedules API
+    description: >-
+      Sailing schedules between origin and destination locations, including
+      vessel, voyage, transshipment, and lead-time data; used for routing,
+      booking, and supply-chain planning.
+    humanURL: https://developer.maersk.com/api-catalogue/Point-to-Point%20Schedules
+    tags:
+      - Schedules
+      - Vessel
+      - Routing
+  - aid: maersk:locations
+    name: Locations API
+    description: >-
+      Authoritative directory of Maersk service locations (ports, terminals,
+      depots, inland points) with UN/LOCODE, geo-coordinates, and operational
+      capabilities for use in upstream booking, routing, and schedules flows.
+    humanURL: https://developer.maersk.com/api-catalogue/Locations
+    tags:
+      - Locations
+      - Ports
+      - Terminals
+  - aid: maersk:captain-peter
+    name: Captain Peter API
+    description: >-
+      API for the Captain Peter remote-monitoring service for refrigerated
+      containers; surfaces temperature, humidity, atmosphere, power, and
+      alarm telemetry for perishables in transit.
+    humanURL: https://developer.maersk.com/api-catalogue/captain-peter
+    tags:
+      - Reefer
+      - Telemetry
+      - Refrigerated Containers
+      - IoT
+  - aid: maersk:booking-apis
+    name: Booking APIs
+    description: >-
+      Suite of pre-booking, booking, and post-booking APIs covering rate
+      requests, booking creation, amendments, documentation, and shipment
+      lifecycle management.
+    humanURL: https://developer.maersk.com/api-catalogue
+    tags:
+      - Booking
+      - Rates
+      - Documentation
+      - Pre-Booking
+      - Post-Booking
 common:
   - type: GitHubOrganization
     url: https://github.com/MaerskTech
