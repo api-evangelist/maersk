@@ -85,6 +85,10 @@ apis:
       - Pre-Booking
       - Post-Booking
 common:
+  - type: VulnerabilityDisclosure
+    url: security/maersk-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/maersk-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/MaerskTech
   - type: LinkedIn
@@ -107,6 +111,8 @@ common:
     url: https://www.maersk.com/careers
   - type: Portal
     url: https://developer.maersk.com/
+  - url: https://www.maersk.com/news
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
