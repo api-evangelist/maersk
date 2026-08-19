@@ -36,7 +36,7 @@ url: >-
   https://raw.githubusercontent.com/api-evangelist/maersk/refs/heads/main/apis.yml
 created: '2026-05-05'
 modified: '2026-05-23'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 apis:
   - aid: maersk:tracking-and-trace
     name: Track and Trace API
