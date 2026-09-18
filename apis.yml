@@ -68,6 +68,10 @@ apis:
       booking, and supply-chain planning.
     humanURL: https://developer.maersk.com/api-catalogue/Point-to-Point%20Schedules
     tags:
+      - Schedule
+      - Vessel
+      - Routing
+    tags_raw:
       - Schedules
       - Vessel
       - Routing
@@ -79,6 +83,10 @@ apis:
       capabilities for use in upstream booking, routing, and schedules flows.
     humanURL: https://developer.maersk.com/api-catalogue/Locations
     tags:
+      - Location
+      - Ports
+      - Terminal
+    tags_raw:
       - Locations
       - Ports
       - Terminals
